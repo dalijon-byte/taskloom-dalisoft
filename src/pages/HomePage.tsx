@@ -20,7 +20,7 @@ export function HomePage() {
             <TaskListContainer />
           </main>
           <footer className="w-full text-center py-8 mt-16 text-muted-foreground text-sm">
-            <p>Built with ❤️ by DALISOFT only 4 softify.ai</p>
+            <p>Built with ❤️ by DALISOFT 4 softify.ai</p>
           </footer>
         </div>
       </div>
